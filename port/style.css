@@ -1,0 +1,36 @@
+body {
+    background-color:vermelho;
+    color: white;
+    
+  }
+  header {
+      padding: 32px;
+      border-bottom: 1px solid #6e0342; /
+      background-color: rgba(0, 0,0,0.1);
+     
+     }
+  header div 
+      text-align:center ;
+ 
+  header div a {
+        color: white;
+        font-size: 20px; 
+        line-height: 30px; 
+        margin: 0 16px; 
+        text-decoration: none;
+        font-family: 'Roboto', sans-serif; 
+  }
+ header div a:hover{ 
+  color: pink; /
+  transition:color 700ms; }
+ 
+ #box {
+  text-align: center; 
+  padding: 32px;  
+  font-family: 'Roboto', sans-serif; 
+ }
+ 
+ #box img {
+  border-radius: 50%; 
+  border: 5px  solid #3797c3 ;
+  margin-bottom: 32px;  
